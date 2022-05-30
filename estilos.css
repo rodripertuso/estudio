@@ -426,6 +426,9 @@ margin-top: 40px;
         overflow-y: hidden;
     }
     
+  .servicio p {
+  height: 0px;
+  }
 
     .logoposta{
         overflow-y: hidden;
